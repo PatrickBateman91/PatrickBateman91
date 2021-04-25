@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amar Spahić. I am a javascript developer working in Zagreb.
+- 👋 Hi, I’m Amar Spahić. I am a javascript developer from Bosnia, currently working in Zagreb, Croatia.
 - 👀 I’m interested in both web & software development.
 - 🌱 I’m currently learning Angular.
 - 💞️ One day I might give it a go at Unreal & game dev in general.
